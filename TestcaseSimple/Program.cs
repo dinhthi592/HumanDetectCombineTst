@@ -8,7 +8,7 @@ using ToFCamera.Wrapper;
 
 namespace TestcaseSimple
 {
-    class Program
+    unsafe class Program
     {
         public const int TFL_FRAME_SIZE = 640 * 480;
         public static void RAW2PCD(string fileName, ushort[] pcdBuf)
@@ -60,7 +60,7 @@ namespace TestcaseSimple
             Console.WriteLine(rstGetGnd);
             int dtcGndNum = gnd.Count();
             Console.WriteLine("Number of grounds detected: " + dtcGndNum);
-            TFL_RESULT rstSaveGnd = TFL_Utilities.SavePLY(gnd.ToArray(), TFL_FRAME_SIZE, gndPLYFile);
+            TFL_RESULT rstSaveGnd = TFL_Utilities.SavePLY(gnd.ToArray(), (ulong)gnd.Count(), gndPLYFile);
             Console.WriteLine("Run Execute");
             TFL_RESULT rstExe = pplDtc.Execute(depthBuf, maxDetectedNumber);
             Console.WriteLine(rstExe);

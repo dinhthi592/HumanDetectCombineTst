@@ -1,0 +1,6 @@
+---- Angle ----- Distance to Wall ------- Height ---------
+     0v1         4.1m                     1.3m
+     0           4.5m                     1.4m
+     30          1.85m                    4.5m
+     60          2.5m                     3m
+     90          2.5m                     3m
