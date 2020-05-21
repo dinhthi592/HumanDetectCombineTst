@@ -3,18 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestcaseSimple", "TestcaseSimple\TestcaseSimple.csproj", "{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestcaseSimple", "TestcaseSimple\TestcaseSimple.csproj", "{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|Any CPU.ActiveCfg = Release|x64
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|Any CPU.Build.0 = Release|x64
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|x64.ActiveCfg = Release|x64
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Debug|x64.Build.0 = Release|x64
 		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Release|x64.ActiveCfg = Release|x64
+		{CE3B07B9-D315-40E6-A60A-2CD88AFE5058}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
