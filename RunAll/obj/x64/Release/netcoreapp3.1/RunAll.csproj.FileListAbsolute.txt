@@ -1,0 +1,15 @@
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.exe
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.deps.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.runtimeconfig.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.runtimeconfig.dev.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\RunAll.pdb
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\tflibWrapperPlus.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\bin\x64\Release\netcoreapp3.1\tflibWrapperSharp.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.csproj.CoreCompileInputs.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.AssemblyInfoInputs.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.AssemblyInfo.cs
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.csproj.CopyComplete
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.pdb
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.genruntimeconfig.cache
