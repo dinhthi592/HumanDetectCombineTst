@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestcaseSimple/1.0.0": {
+        "dependencies": {
+          "libxl.net": "3.9.0.0",
+          "tflibWrapperPlus": "0.0.0.0",
+          "tflibWrapperSharp": "1.0.0.0"
+        },
+        "runtime": {
+          "TestcaseSimple.dll": {}
+        }
+      },
+      "libxl.net/3.9.0.0": {
+        "runtime": {
+          "libxl.net.dll": {
+            "assemblyVersion": "3.9.0.0",
+            "fileVersion": "3.9.0.0"
+          }
+        }
+      },
+      "tflibWrapperPlus/0.0.0.0": {
+        "runtime": {
+          "tflibWrapperPlus.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "tflibWrapperSharp/1.0.0.0": {
+        "runtime": {
+          "tflibWrapperSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestcaseSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libxl.net/3.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tflibWrapperPlus/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tflibWrapperSharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -4,7 +4,6 @@ C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\TestcaseSimple.runtimeconfig.dev.json
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\TestcaseSimple.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\TestcaseSimple.pdb
-C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\libxl.net.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\tflibWrapperPlus.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\tflibWrapperSharp.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release\netcoreapp3.1\TestcaseSimple.csproj.CoreCompileInputs.cache
@@ -14,3 +13,5 @@ C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release\netcoreapp3.1\TestcaseSimple.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release\netcoreapp3.1\TestcaseSimple.pdb
 C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release\netcoreapp3.1\TestcaseSimple.genruntimeconfig.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\obj\x64\Release\netcoreapp3.1\TestcaseSimple.csprojAssemblyReference.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\TestcaseSimple\bin\x64\Release\netcoreapp3.1\libxl.net.dll
