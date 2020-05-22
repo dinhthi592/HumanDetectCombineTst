@@ -1,0 +1,1661 @@
+--------------------------------------
+2020年5月22日 10:54:52
+Start RunAll
+--------------------------------------
+0v1_0_0.raw
+Convert RAW to PCD
+Run Initialize
+TFL_OK
+Run GetGroundCloud
+TFL_OK
+Save ground as 0v1_0_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 753
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0v1_4_10_0.ply
+TFL_OK
+Save person 1 as 0v1_4_10_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 751
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0v1_4_5_0.ply
+TFL_OK
+Save person 1 as 0v1_4_5_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 650
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0v1_4_6_0.ply
+TFL_OK
+Save person 1 as 0v1_4_6_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 775
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0v1_4_7_0.ply
+TFL_OK
+Save person 1 as 0v1_4_7_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 776
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0v1_4_8_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0v1_4_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 728
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0v1_4_9_0.ply
+TFL_OK
+Save person 1 as 0v1_4_9_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_0_0.raw
+Convert RAW to PCD
+Run Initialize
+TFL_OK
+Run GetGroundCloud
+TFL_OK
+Save ground as 0_0_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 841
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_1_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1056
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_10_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 869
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 906
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 988
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 986
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1085
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_6_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1087
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_7_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1214
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_8_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_1_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1135
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_1_9_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1175
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_1_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1229
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_10_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1158
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1198
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1459
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1186
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1302
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_6_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1188
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_7_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1502
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_8_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_2_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1210
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_2_9_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1333
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0_3_1_0.ply
+TFL_OK
+Save person 1 as 0_3_1_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1436
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0_3_2_0.ply
+TFL_OK
+Save person 1 as 0_3_2_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1098
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0_3_3_0.ply
+TFL_OK
+Save person 1 as 0_3_3_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1169
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_3_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1147
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_3_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1196
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 0_3_6_0.ply
+TFL_OK
+Save person 1 as 0_3_6_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1334
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_3_7_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+0_3_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1195
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 0_3_8_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+30_0_0.raw
+Convert RAW to PCD
+Run Initialize
+TFL_OK
+Run GetGroundCloud
+TFL_OK
+Save ground as 30_0_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+30_1_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 976
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1243
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1254
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1267
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1260
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1237
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1275
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1383
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1264
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_1_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1266
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1255
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1276
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_11.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1347
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1390
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1473
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1294
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1362
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1356
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1290
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1270
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_2_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1187
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1570
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1471
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1217
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1229
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1232
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1239
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1188
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1202
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1169
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_3_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1370
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1252
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1138
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1186
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1278
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1207
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1227
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1140
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1163
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+30_4_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1114
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+60_0_0.raw
+Convert RAW to PCD
+Run Initialize
+TFL_OK
+Run GetGroundCloud
+TFL_OK
+Save ground as 60_0_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_1_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 641
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 0
+--------------------------------------
+--------------------------------------
+60_1_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 546
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_1_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_1_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 619
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_1_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_1_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 586
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_1_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_1_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 644
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_1_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_1_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 573
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_1_6_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1007
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_2_1_0.ply
+TFL_OK
+Save person 1 as 60_2_1_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 658
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_2_10_0.ply
+TFL_OK
+Save person 1 as 60_2_10_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_11.raw
+Convert RAW to PCD
+Run Execute
+Execute time 709
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_11_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 724
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 789
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 809
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 809
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_2_5_0.ply
+TFL_OK
+Save person 1 as 60_2_5_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 712
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_2_6_0.ply
+TFL_OK
+Save person 1 as 60_2_6_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 637
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_7_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 656
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_8_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_2_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 730
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_2_9_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1100
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_1_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_10.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1054
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_10_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1101
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 883
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_3_3_0.ply
+TFL_OK
+Save person 1 as 60_3_3_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 913
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_3_4_0.ply
+TFL_OK
+Save person 1 as 60_3_4_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 995
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1071
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_3_6_0.ply
+TFL_OK
+Save person 1 as 60_3_6_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 836
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_7_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1010
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 60_3_8_0.ply
+TFL_OK
+Save person 1 as 60_3_8_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_3_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 848
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_3_9_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1445
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 60_4_1_0.ply
+TFL_OK
+Save person 1 as 60_4_1_1.ply
+TFL_OK
+Save person 2 as 60_4_1_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1070
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 60_4_2_0.ply
+TFL_OK
+Save person 1 as 60_4_2_1.ply
+TFL_OK
+Save person 2 as 60_4_2_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 945
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_4_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1073
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 60_4_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1468
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 60_4_5_0.ply
+TFL_OK
+Save person 1 as 60_4_5_1.ply
+TFL_OK
+Save person 2 as 60_4_5_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+60_4_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 842
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 60_4_6_0.ply
+TFL_OK
+Save person 1 as 60_4_6_1.ply
+TFL_OK
+Save person 2 as 60_4_6_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_0_0.raw
+Convert RAW to PCD
+Run Initialize
+TFL_OK
+Run GetGroundCloud
+TFL_OK
+Save ground as 90_0_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1000
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_1_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 920
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_2_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 899
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1048
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1261
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1361
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_6_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_7.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1435
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_1_7_0.ply
+TFL_OK
+Save person 1 as 90_1_7_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_8.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1349
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_1_8_0.ply
+TFL_OK
+Save person 1 as 90_1_8_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_1_9.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1465
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_1_9_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1681
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_2_1_0.ply
+TFL_OK
+Save person 1 as 90_2_1_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1515
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_2_2_0.ply
+TFL_OK
+Save person 1 as 90_2_2_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1630
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_2_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1625
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_2_4_0.ply
+TFL_OK
+Save person 1 as 90_2_4_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1521
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_2_5_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_2_6.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1537
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_2_6_0.ply
+TFL_OK
+Save person 1 as 90_2_6_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_3_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1856
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 90_3_1_0.ply
+TFL_OK
+Save person 1 as 90_3_1_1.ply
+TFL_OK
+Save person 2 as 90_3_1_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_3_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1577
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 90_3_2_0.ply
+TFL_OK
+Save person 1 as 90_3_2_1.ply
+TFL_OK
+Save person 2 as 90_3_2_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_3_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1559
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 2
+Save person 0 as 90_3_3_0.ply
+TFL_OK
+Save person 1 as 90_3_3_1.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_3_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1572
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 90_3_4_0.ply
+TFL_OK
+Save person 1 as 90_3_4_1.ply
+TFL_OK
+Save person 2 as 90_3_4_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_3_5.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1761
+TFL_NO_PEOPLE
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 90_3_5_0.ply
+TFL_OK
+Save person 1 as 90_3_5_1.ply
+TFL_OK
+Save person 2 as 90_3_5_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_4_1.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1942
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 4
+Save person 0 as 90_4_1_0.ply
+TFL_OK
+Save person 1 as 90_4_1_1.ply
+TFL_OK
+Save person 2 as 90_4_1_2.ply
+TFL_OK
+Save person 3 as 90_4_1_3.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_4_2.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1615
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 3
+Save person 0 as 90_4_2_0.ply
+TFL_OK
+Save person 1 as 90_4_2_1.ply
+TFL_OK
+Save person 2 as 90_4_2_2.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_4_3.raw
+Convert RAW to PCD
+Run Execute
+Execute time 2195
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_4_3_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+90_4_4.raw
+Convert RAW to PCD
+Run Execute
+Execute time 1929
+TFL_OK
+Run GetPeopleData
+TFL_OK
+Number of people detected: 1
+Save person 0 as 90_4_4_0.ply
+TFL_OK
+--------------------------------------
+--------------------------------------
+Average Execute Runtime
+Angle 0
+0 people: 0
+1 people: 1016
+2 people: 1260
+3 people: 1238
+4 people: 738
+Angle 30
+0 people: 0
+1 people: 1242
+2 people: 1318
+3 people: 1288
+4 people: 1189
+Angle 60
+0 people: 0
+1 people: 601
+2 people: 749
+3 people: 981
+4 people: 1140
+Angle 90
+0 people: 0
+1 people: 1193
+2 people: 1584
+3 people: 1665
+4 people: 1920
+--------------------------------------
+End RunAll

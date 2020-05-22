@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="libxl.net">
+      <HintPath>..\Dependencies\Release\libxl.net.dll</HintPath>
+    </Reference>
+    <Reference Include="tflibWrapperPlus">
+      <HintPath>..\Dependencies\Release\tflibWrapperPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="tflibWrapperSharp">
+      <HintPath>..\Dependencies\Release\tflibWrapperSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

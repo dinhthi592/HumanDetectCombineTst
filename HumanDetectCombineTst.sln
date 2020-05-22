@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testcase1", "Testcase1\Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCase2-3", "TestCase2-3\TestCase2-3.csproj", "{12C8E335-2F29-4545-816D-0431C49DD9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAll", "RunAll\RunAll.csproj", "{D45FFDF5-1F6E-4982-9E19-D64D75E7FFA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunAll", "RunAll\RunAll.csproj", "{D45FFDF5-1F6E-4982-9E19-D64D75E7FFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAllShuffle", "RunAllShuffle\RunAllShuffle.csproj", "{3BED04B2-3E0B-477D-8689-CB757B9011FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{D45FFDF5-1F6E-4982-9E19-D64D75E7FFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D45FFDF5-1F6E-4982-9E19-D64D75E7FFA3}.Release|x64.ActiveCfg = Release|x64
 		{D45FFDF5-1F6E-4982-9E19-D64D75E7FFA3}.Release|x64.Build.0 = Release|x64
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Release|x64.ActiveCfg = Release|x64
+		{3BED04B2-3E0B-477D-8689-CB757B9011FB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

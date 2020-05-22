@@ -1,0 +1,16 @@
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.csproj.CoreCompileInputs.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.AssemblyInfoInputs.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.AssemblyInfo.cs
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.exe
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.deps.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.runtimeconfig.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.runtimeconfig.dev.json
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\RunAllShuffle.pdb
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\libxl.net.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\tflibWrapperPlus.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\bin\x64\Release\netcoreapp3.1\tflibWrapperSharp.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.csproj.CopyComplete
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.dll
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.pdb
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.genruntimeconfig.cache
