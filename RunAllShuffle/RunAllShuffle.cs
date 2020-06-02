@@ -99,23 +99,39 @@ namespace RunAllShuffle
             writeLog(gndRawFileName);
             ushort[] depthBufInit = new ushort[TFL_FRAME_SIZE];
             RAW2PCD(GND_RAW_DIR + gndRawFileName, depthBufInit);
+
             Console.WriteLine("Run Initialize");
             writeLog("Run Initialize");
             TFL_RESULT rstInit = peoDtc.Initialize(depthBufInit, cameraAngle);
             Console.WriteLine(rstInit);
             writeLog(rstInit.ToString());
+
+            /*if(rstInit == TFL_RESULT.TFL_DETECT_GROUND_ERR)
+            {
+                return;
+            }*/
+
             var gnd = new List<TFL_PointXYZ>();
             Console.WriteLine("Run GetGroundCloud");
             writeLog("Run GetGroundCloud");
             TFL_RESULT rstGetGnd = peoDtc.GetGroundCloud(gnd);
             Console.WriteLine(rstGetGnd);
             writeLog(rstGetGnd.ToString());
+
             string gndPLYFile = gndRawFileName.Substring(0, gndRawFileName.IndexOf(".raw")) + ".ply";
             Console.WriteLine("Save ground as " + gndPLYFile);
             writeLog("Save ground as " + gndPLYFile);
             TFL_RESULT rstSaveGnd = TFL_Utilities.SavePLY(gnd.ToArray(), (ulong)gnd.Count(), GND_PLY_DIR + gndPLYFile);
             Console.WriteLine(rstSaveGnd);
             writeLog(rstSaveGnd.ToString());
+
+            ushort camAngle = 0;
+            Console.WriteLine("Run GetCameraAngle");
+            writeLog("Run GetCameraAngle");
+            TFL_RESULT rstGetCamAngle = peoDtc.GetCameraAngle(out camAngle);
+            Console.WriteLine(rstGetCamAngle);
+            writeLog(rstGetCamAngle.ToString());
+
             Console.WriteLine("--------------------------------------");
             writeLog("--------------------------------------");
         }
@@ -128,6 +144,7 @@ namespace RunAllShuffle
             writeLog(peoRawFileName);
             ushort[] depthBuf = new ushort[TFL_FRAME_SIZE];
             RAW2PCD(peoleRawDir + peoRawFileName, depthBuf);
+
             Console.WriteLine("Run Execute");
             writeLog("Run Execute");
             var watch = System.Diagnostics.Stopwatch.StartNew();
@@ -138,26 +155,34 @@ namespace RunAllShuffle
             writeLog("Execute time " + elapsedMs.ToString());
             Console.WriteLine(rstExe);
             writeLog(rstExe.ToString());
-            var people = new List<TFL_Human>();
-            Console.WriteLine("Run GetPeopleData");
-            writeLog("Run GetPeopleData");
-            TFL_RESULT rstGetPpl = peoDtc.GetPeopleData(people);
-            Console.WriteLine(rstGetPpl);
-            writeLog(rstGetPpl.ToString());
-            int pplDtcNum = people.Count();
-            Console.WriteLine("Number of people detected: " + pplDtcNum);
-            writeLog("Number of people detected: " + pplDtcNum.ToString());
+
+            UIntPtr humanNum;
+            Console.WriteLine("Run GetHumanNum");
+            writeLog("Run GetHumanNum");
+            TFL_RESULT rstGetHumanNum = peoDtc.GetHumanNum(out humanNum);
+            Console.WriteLine(rstGetHumanNum);
+            writeLog(rstGetHumanNum.ToString());
+            Console.WriteLine("Number of people detected: " + humanNum);
+            writeLog("Number of people detected: " + humanNum);
+
+            TFL_Human person;
+            TFL_RESULT rstGetHumanData;
             string peoPLYFile = peoRawFileName.Substring(0, peoRawFileName.IndexOf(".raw"));
-            for (int i = 0; i < pplDtcNum; i++)
+            for (uint i = 0; i < humanNum.ToUInt32(); i++)
             {
+                Console.WriteLine("Run GetHumanData " + i);
+                writeLog("Run GetHumanData " + i);
+                rstGetHumanData = peoDtc.GetHumanData(i, out person);
                 Console.WriteLine("Save person " + i + " as " + peoPLYFile + "_" + i + ".ply");
                 writeLog("Save person " + i + " as " + peoPLYFile + "_" + i + ".ply");
-                TFL_RESULT rstSavePerson = TFL_Utilities.SavePLY(people[i].peoplePointCloud.ToArray(),
-                    (ulong)people[i].peoplePointCloud.Count(),
+
+                TFL_RESULT rstSavePerson = TFL_Utilities.SavePLY(person.peoplePointCloud.ToArray(),
+                    (ulong)person.peoplePointCloud.Count(),
                     PEOPLE_PLY_DIR + peoPLYFile + "_" + i + ".ply");
                 Console.WriteLine(rstSavePerson);
                 writeLog(rstSavePerson.ToString());
             }
+
             // Save Execute runtime
             string t = peoRawFileName.Substring(peoRawFileName.IndexOf("_") + 1, 1);
             int realPplNum = int.Parse(t);
