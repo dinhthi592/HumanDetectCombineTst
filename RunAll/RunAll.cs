@@ -331,7 +331,7 @@ namespace RunAll
             Console.WriteLine("Start RunAll");
             writeLog("Start RunAll");
             Scan(PEOPLE_RAW_DIR_0v1);
-            //Scan(PEOPLE_RAW_DIR_0);
+            Scan(PEOPLE_RAW_DIR_0);
             Scan(PEOPLE_RAW_DIR_30);
             Scan(PEOPLE_RAW_DIR_60);
             Scan(PEOPLE_RAW_DIR_90);

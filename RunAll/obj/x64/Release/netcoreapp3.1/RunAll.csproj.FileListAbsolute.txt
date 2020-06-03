@@ -13,4 +13,3 @@ C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcore
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.pdb
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.genruntimeconfig.cache
-C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAll\obj\x64\Release\netcoreapp3.1\RunAll.csprojAssemblyReference.cache

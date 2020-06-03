@@ -14,3 +14,4 @@ C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.dll
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.pdb
 C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.genruntimeconfig.cache
+C:\Users\tlong\source\repos\HumanDetectCombineTst\RunAllShuffle\obj\x64\Release\netcoreapp3.1\RunAllShuffle.csprojAssemblyReference.cache
