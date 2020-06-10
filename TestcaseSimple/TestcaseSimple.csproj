@@ -1,31 +1,3 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Platforms>AnyCPU;x64</Platforms>
-  </PropertyGroup>
-
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Optimize>true</Optimize>
-  </PropertyGroup>
-
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Optimize>true</Optimize>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <Reference Include="libxl.net">
-      <HintPath>..\Dependencies\Debug\libxl.net.dll</HintPath>
-    </Reference>
-    <Reference Include="tflibWrapperPlus">
-      <HintPath>..\Dependencies\Debug\tflibWrapperPlus.dll</HintPath>
-    </Reference>
-    <Reference Include="tflibWrapperSharp">
-      <HintPath>..\Dependencies\Debug\tflibWrapperSharp.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:64f8044741e9a62075a555dd55dd3a2aa64a96862dfaac109498479c3b11568b
+size 1002
